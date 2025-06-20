@@ -1,3 +1,5 @@
+options(repos = c(CRAN = "http://cran.rstudio.com"))
+
 install.packages(c("rmarkdown",
                    "ggplot2",
                    "lme4",
